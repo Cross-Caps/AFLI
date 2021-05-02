@@ -4,7 +4,7 @@
 Code to reproduce plots from the paper: 
 Activation function design for deep networks: linearity and effective initialization
 
-Author: 
+Authors: 
 
 Vinayak Abrol <abrol@maths.ox.ac.uk>
 
