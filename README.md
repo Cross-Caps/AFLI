@@ -25,7 +25,7 @@ Activation function design for deep networks: linearity and effective initializa
 ## Training and testing
 
 - For training a DNN model on MNIST/Fashion-MNIST/Cifar-10 dataset; see [script](./scripts/train.py)
-  - require pre-computed values of $`(\sigma_w,\sigma_b)`$ for a given $q*$
+  - require pre-computed values of <img src="https://latex.codecogs.com/gif.latex?(\sigma_w,\sigma_b)" title="(\sigma_w,\sigma_b)" /> for a given <img src="https://latex.codecogs.com/gif.latex?q^*" title="q^*" />
 - For training with fixed value of parameter 'a' of an activation function; import [script](./scripts/utils_fixed_a.py)
   - *train* and *trainO* functions are provided to train with Gaussian or orthogonal weights 
 - For training with variable value of parameter 'a' of an activation function; import [script](./scripts/utils_variable_a.py)
