@@ -20,7 +20,7 @@ Activation function design for deep networks: linearity and effective initializa
 ## Colab Notebooks
 
 - For implementation of Variance and Covariance maps; see [Notebook](./Notebook/RTM_theory.ipynb)
-- For analysing an activation function via correlation, moment ratio and dynamical isometry bounds; see [Notebook](./Notebook/Figure_Correlation_Moment_Ration_Bounds.ipynb)
+- For analysing an activation function via correlation, moment ratio and dynamical isometry bounds; see [Notebook](./Notebook/Figure_Correlation_Moment_Ratio_Bounds.ipynb)
 
 
 ## Training and testing
