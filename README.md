@@ -14,7 +14,7 @@
 
 
 Code to reproduce plots from the paper: 
-Activation function design for deep networks: linearity and effective initialization
+Activation function design for deep networks: linearity and effective initialization https://arxiv.org/abs/2105.07741
 
 
 ## Colab Notebooks
