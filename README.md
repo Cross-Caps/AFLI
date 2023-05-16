@@ -23,7 +23,7 @@ Activation function design for deep networks: linearity and effective initializa
 - For analysing an activation function via correlation, moment ratio and dynamical isometry bounds; see [Notebook](./Notebook/Figure_Correlation_Moment_Ratio_Bounds.ipynb)
 
 
-## Training and testing
+## Training and Testing
 
 - For training a DNN model on MNIST/Fashion-MNIST/Cifar-10 dataset; see [script](./scripts/train.py)
   - require pre-computed values of <img src="https://latex.codecogs.com/gif.latex?(\sigma_w,\sigma_b)" title="(\sigma_w,\sigma_b)" /> for a given <img src="https://latex.codecogs.com/gif.latex?q^*" title="q^*" />; use functions from [Notebook](./Notebook/RTM_theory.ipynb) 
